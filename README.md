@@ -29,8 +29,8 @@ Ayrıntılar: [`docs/backtest_sonuclari.md`](docs/backtest_sonuclari.md)
 ## Kurulum
 
 ```bash
-git clone https://github.com/<ayhanturan167>/<binance-tr-trend-bot>.git
-cd <binance-tr-trend-bot>
+git clone https://github.com/ayhanturan167/binance-tr-trend-bot.git
+cd binance-tr-trend-bot
 pip install -r requirements.txt
 ```
 
