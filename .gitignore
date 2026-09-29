@@ -1,0 +1,23 @@
+# Gizli bilgiler (depoya girmemeli)
+bot_ayarlar.json
+bot_durum_*.json
+bot_durum.json
+.env
+*.key
+*secret*
+
+# Loglar ve indirilen veri
+bot.log
+*.log
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editör
+.vscode/
+.idea/
+.DS_Store
