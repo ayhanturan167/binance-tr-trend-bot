@@ -18,7 +18,7 @@ Binance TR için yazılmış, **risk limitli** ve **Telegram bildirimli** bir kr
 4 saatlik mumlarda **SMA 50 / SMA 200**: kısa ortalama uzun ortalamanın üstündeyken pozisyonda kalır, altına inince satar. Sinyal yalnızca **kapanmış** mumlardan hesaplanır (geleceği görme hatası yok).
 
 ## Backtest sonuçları (dürüst özet)
-
+   ![Backtest sonuçları](docs/backtest_grafik.png)
 Ayrıntılar: [`docs/backtest_sonuclari.md`](docs/backtest_sonuclari.md)
 
 - Yaklaşık **6 yıllık** BTC saatlik verisinde basit SMA kesişimleri, komisyon ve kayma sonrası **al-tut'u geçemedi**. En iyi ayar (SMA 50/200) %331 getirirken al-tut yaklaşık %681 yaptı, en büyük düşüş %58,6 idi.
